@@ -1,0 +1,14 @@
+
+    # Sarcastic 
+    "Oh wonderful, I failed my exam again.",
+    "I just love getting stuck in traffic for hours.",
+    "Great, my computer crashed right before the deadline.",
+    "What a fantastic day, everything went wrong.",
+    "I absolutely enjoy waiting for people who are always late.",
+
+    # Not Sarcastic 
+    "I passed my examination with excellent marks.",
+    "I enjoy spending time with my family.",
+    "The food was delicious and I loved the restaurant.",
+    "Thank you for helping me complete my project.",
+    "I am very happy with my new job."
